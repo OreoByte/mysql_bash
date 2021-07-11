@@ -1,4 +1,13 @@
 #!/bin/bash
+
+echo " _   _          _   _ "
+echo "| | | |        | | | |"
+echo "| | | |_      _| | | |"
+echo "| | | \ \ /\ / / | | |"
+echo "| |_| |\ V  V /| |_| |"
+echo " \___/  \_/\_/  \___/ "
+echo "=================================="
+echo "UWUWUWUWUWUWUWUWUWUWU BY IDK"
 # chagne static (home and siteurl) static address
 # of the option_value table
 # Note may require sudo depending on how the webserver's db was configured
